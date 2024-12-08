@@ -1,5 +1,7 @@
 # Cursed Dice Model
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > A 3D model of a dice.
 
 This branch has been abandoned and left unfinished.
